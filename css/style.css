@@ -1,0 +1,26 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 20px;
+  background-image: url('downloads/achtergrond.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-filter: blur(8px);
+}
+
+h1 {
+  color: #333;
+  font-face: bold;
+  font-size: xx-large;
+}
+
+p {
+  font-size: 1.2em;
+  font-style: italic;
+  color: #333333;
+  border-style: outset;
+  border-bottom-color: black;
+  border-top-color: darkgrey;
+  border-width: thick;
+}
